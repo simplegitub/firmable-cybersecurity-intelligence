@@ -1,0 +1,26 @@
+organization_name,record_count,unique_ips,unique_ports,expired_cert_records,vuln_metadata_records,prospecting_research_score,provider_review_flag,review_note,human_label,review_reason
+A100 ROW GmbH,118,88,24,1,1,93.1,False,Review organization fit and signals,REVIEW,Organization identity and target-customer fit need verification.
+"Akamai Technologies, Inc.",1348,736,93,33,0,89.8,True,Review: possible infrastructure provider,LOW_PRIORITY,CDN and edge infrastructure provider; large network footprint does not establish prospect fit.
+Alibaba Cloud (Singapore) Private Limited,358,221,74,2,0,89.3,True,Review: possible infrastructure provider,LOW_PRIORITY,Cloud infrastructure provider; direct customer fit needs separate validation.
+Alibaba Cloud LLC,2372,1198,402,26,0,89.8,True,Review: possible infrastructure provider,LOW_PRIORITY,Cloud services provider; network observations do not establish buying intent.
+"Aliyun Computing Co., LTD",5426,5102,2301,4,0,89.7,True,Review: possible infrastructure provider,LOW_PRIORITY,Cloud computing provider; likely infrastructure-related observations.
+Amazon Data Services Northern Virginia,527,327,28,5,2,99.4,False,Review organization fit and signals,LOW_PRIORITY,AWS infrastructure-related organization; high network activity may reflect cloud hosting.
+Amazon Data Services Singapore,53,38,21,2,1,93.1,False,Review organization fit and signals,LOW_PRIORITY,AWS infrastructure-related organization; direct prospect fit is unverified.
+Amazon Data Services Sweden,59,31,22,1,1,92.5,False,Review organization fit and signals,LOW_PRIORITY,AWS infrastructure-related organization; network footprint alone is insufficient evidence.
+Amazon Technologies Inc.,4275,2378,114,33,3,99.9,True,Review: possible infrastructure provider,LOW_PRIORITY,Large technology organization; target-customer fit needs validation.
+"Amazon.com, Inc.",4812,1548,112,21,3,99.9,False,Review organization fit and signals,LOW_PRIORITY,Large technology and commerce organization; not enough evidence of direct prospect fit.
+Charter Communications Inc,1331,1320,105,3,1,94.4,True,Review: possible infrastructure provider,LOW_PRIORITY,Telecommunications provider; network observations may reflect ISP infrastructure.
+"China Mobile Communications Group Co., Ltd",441,433,246,1,1,93.8,False,Review organization fit and signals,LOW_PRIORITY,Telecommunications operator; infrastructure footprint does not establish prospect intent.
+"Cloudflare, Inc.",10175,3255,52,16,0,89.6,True,Review: possible infrastructure provider,LOW_PRIORITY,CDN and internet security infrastructure provider; high record counts may reflect shared infrastructure.
+"Cogent Communications, LLC",879,853,206,7,0,89.8,False,Review organization fit and signals,LOW_PRIORITY,Internet backbone and network services provider; likely network infrastructure observations.
+Contabo GmbH,214,200,66,2,1,99.2,False,Review organization fit and signals,LOW_PRIORITY,Hosting and cloud infrastructure provider; customer fit requires additional research.
+"DigitalOcean, LLC",760,587,99,18,0,89.7,False,Review organization fit and signals,LOW_PRIORITY,Cloud hosting provider; infrastructure activity alone does not demonstrate buying intent.
+Google LLC,66572,42358,5333,21,1,99.9,True,Review: possible infrastructure provider,LOW_PRIORITY,Large technology and cloud provider; direct target-customer fit is unverified.
+HostPapa,240,214,59,2,1,99.2,False,Review organization fit and signals,LOW_PRIORITY,Web hosting provider; network observations may represent hosted customer infrastructure.
+Incapsula Inc,90614,49094,822,21,0,89.9,True,Review: possible infrastructure provider,LOW_PRIORITY,Web security and CDN infrastructure; observations may relate to protected customer websites.
+Linode,1191,434,126,83,0,89.7,False,Review organization fit and signals,LOW_PRIORITY,Cloud hosting provider; observed IPs may represent hosted workloads.
+Microsoft Corporation,1637,1322,190,13,0,89.8,False,Review organization fit and signals,LOW_PRIORITY,Organization identity is not disclosed; insufficient evidence to assess business fit.
+Private Customer,737,722,453,5,0,89.8,False,Review organization fit and signals,REVIEW,Organization identity and network-service context need verification.
+Red de Servicios IP,72,72,16,1,1,97.7,False,Review organization fit and signals,REVIEW,Appears to be a cable television or telecommunications organization; ideal-customer fit is unverified.
+SaiGon Tourist Cable Television,39,39,4,1,1,90.6,False,Review organization fit and signals,LOW_PRIORITY,Telecommunications and enterprise network services provider; direct prospect fit needs validation.
+Verizon Business,3479,3452,65,9,1,94.5,True,Review: possible infrastructure provider,LOW_PRIORITY,Telecommunications and enterprise network services provider; direct prospect fit needs validation.
