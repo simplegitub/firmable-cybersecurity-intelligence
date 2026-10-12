@@ -18,7 +18,7 @@ The Streamlit application provides:
 - Summary metrics and a downloadable CSV
 - A simple interface for exploring results
 
-**Live application:** Add your deployed Streamlit URL here.
+**Live application:** (https://firmable-cybersecurity-intelligence-2yxpxzqorvqkhwar9ofrhm.streamlit.app/).
 
 ## Project Workflow
 
